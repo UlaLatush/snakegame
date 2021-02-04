@@ -1,0 +1,7 @@
+#scoreField {
+    width: 35px;
+    height: 20px;
+    background-color: lightgray;
+    border: 2px solid darkgray;
+    margin-bottom: 20px;
+}
